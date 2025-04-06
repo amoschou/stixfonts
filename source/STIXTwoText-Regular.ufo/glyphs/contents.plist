@@ -4444,5 +4444,67 @@
   <string>zpalatal.glif</string>
   <key>zretroflex</key>
   <string>zretroflex.glif</string>
+  <key>pg.dasia</key>
+  <string>pg.dasia.glif</string>
+  <key>pg.dasiacomb</key>
+  <string>pg.dasiacomb.glif</string>
+  <key>pg.dasiaoxia</key>
+  <string>pg.dasiaoxia.glif</string>
+  <key>pg.dasiaoxiacomb</key>
+  <string>pg.dasiaoxiacomb.glif</string>
+  <key>pg.dasiaperispomeni</key>
+  <string>pg.dasiaperispomeni.glif</string>
+  <key>pg.dasiaperispomenicomb</key>
+  <string>pg.dasiaperispomenicomb.glif</string>
+  <key>pg.dasiavaria</key>
+  <string>pg.dasiavaria.glif</string>
+  <key>pg.dasiavariacomb</key>
+  <string>pg.dasiavariacomb.glif</string>
+  <key>pg.dialytikaoxia</key>
+  <string>pg.dialytikaoxia.glif</string>
+  <key>pg.dialytikaoxiacomb</key>
+  <string>pg.dialytikaoxiacomb.glif</string>
+  <key>pg.dialytikaperispomeni</key>
+  <string>pg.dialytikaperispomeni.glif</string>
+  <key>pg.dialytikaperispomenicomb</key>
+  <string>pg.dialytikaperispomenicomb.glif</string>
+  <key>pg.dialytikavaria</key>
+  <string>pg.dialytikavaria.glif</string>
+  <key>pg.dialytikavariacomb</key>
+  <string>pg.dialytikavariacomb.glif</string>
+  <key>pg.koronis</key>
+  <string>pg.koronis.glif</string>
+  <key>pg.koroniscomb</key>
+  <string>pg.koroniscomb.glif</string>
+  <key>pg.oxia</key>
+  <string>pg.oxia.glif</string>
+  <key>pg.oxiacomb</key>
+  <string>pg.oxiacomb.glif</string>
+  <key>pg.perispomeni</key>
+  <string>pg.perispomeni.glif</string>
+  <key>pg.perispomenicomb</key>
+  <string>pg.perispomenicomb.glif</string>
+  <key>pg.psili</key>
+  <string>pg.psili.glif</string>
+  <key>pg.psilicomb</key>
+  <string>pg.psilicomb.glif</string>
+  <key>pg.psilioxia</key>
+  <string>pg.psilioxia.glif</string>
+  <key>pg.psilioxiacomb</key>
+  <string>pg.psilioxiacomb.glif</string>
+  <key>pg.psiliperispomeni</key>
+  <string>pg.psiliperispomeni.glif</string>
+  <key>pg.psiliperispomenicomb</key>
+  <string>pg.psiliperispomenicomb.glif</string>
+  <key>pg.psilivaria</key>
+  <string>pg.psilivaria.glif</string>
+  <key>pg.psilivariacomb</key>
+  <string>pg.psilivariacomb.glif</string>
+  <key>pg.quoteright.Greek</key>
+  <string>pg.quoteright.Greek.glif</string>
+  <key>pg.varia</key>
+  <string>pg.varia.glif</string>
+  <key>pg.variacomb</key>
+  <string>pg.variacomb.glif</string>
 </dict>
 </plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pg.psilivaria" format="2">
+  <advance width="349"/>
+  <unicode hex="1FCD"/>
+  <anchor x="187" y="699" name="top.mkmk"/>
+  <outline>
+    <component base="pg.psilivariacomb" xOffset="417"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

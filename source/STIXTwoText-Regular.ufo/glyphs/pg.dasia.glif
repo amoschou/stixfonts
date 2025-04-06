@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pg.dasia" format="2">
+  <advance width="210"/>
+  <unicode hex="1FFE"/>
+  <anchor x="112" y="699" name="top.mkmk"/>
+  <outline>
+    <component base="pg.dasiacomb" xOffset="342"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>
