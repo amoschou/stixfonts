@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pg.iotasubscript" format="2">
+  <advance width="159"/>
+  <unicode hex="037A"/>
+  <anchor x="82" y="-220" name="bottom.mkmk"/>
+  <outline>
+    <component base="pg.iotasubscriptcomb"  xOffset="312"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

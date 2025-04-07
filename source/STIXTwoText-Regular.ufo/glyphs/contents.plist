@@ -4472,6 +4472,10 @@
   <string>pg.dialytikavaria.glif</string>
   <key>pg.dialytikavariacomb</key>
   <string>pg.dialytikavariacomb.glif</string>
+  <key>pg.iotasubscript</key>
+  <string>pg.iotasubscript.glif</string>
+  <key>pg.iotasubscriptcomb</key>
+  <string>pg.iotasubscriptcomb.glif</string>
   <key>pg.koronis</key>
   <string>pg.koronis.glif</string>
   <key>pg.koroniscomb</key>
