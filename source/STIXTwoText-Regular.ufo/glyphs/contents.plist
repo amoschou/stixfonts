@@ -4444,6 +4444,58 @@
   <string>zpalatal.glif</string>
   <key>zretroflex</key>
   <string>zretroflex.glif</string>
+
+  <key>pg.alphabreve</key>
+  <string>pg.alphabreve.glif</string>
+  <key>pg.alphadasia</key>
+  <string>pg.alphadasia.glif</string>
+  <key>pg.alphadasiaiotasubscript</key>
+  <string>pg.alphadasiaiotasubscript.glif</string>
+  <key>pg.alphadasiaoxia</key>
+  <string>pg.alphadasiaoxia.glif</string>
+  <key>pg.alphadasiaoxiaiotasubscript</key>
+  <string>pg.alphadasiaoxiaiotasubscript.glif</string>
+  <key>pg.alphadasiaperispomeni</key>
+  <string>pg.alphadasiaperispomeni.glif</string>
+  <key>pg.alphadasiaperispomeniiotasubscript</key>
+  <string>pg.alphadasiaperispomeniiotasubscript.glif</string>
+  <key>pg.alphadasiavaria</key>
+  <string>pg.alphadasiavaria.glif</string>
+  <key>pg.alphadasiavariaiotasubscript</key>
+  <string>pg.alphadasiavariaiotasubscript.glif</string>
+  <key>pg.alphaiotasubscript</key>
+  <string>pg.alphaiotasubscript.glif</string>
+  <key>pg.alphamacron</key>
+  <string>pg.alphamacron.glif</string>
+  <key>pg.alphaoxia</key>
+  <string>pg.alphaoxia.glif</string>
+  <key>pg.alphaoxiaiotasubscript</key>
+  <string>pg.alphaoxiaiotasubscript.glif</string>
+  <key>pg.alphaperispomeni</key>
+  <string>pg.alphaperispomeni.glif</string>
+  <key>pg.alphaperispomeniiotasubscript</key>
+  <string>pg.alphaperispomeniiotasubscript.glif</string>
+  <key>pg.alphapsili</key>
+  <string>pg.alphapsili.glif</string>
+  <key>pg.alphapsiliiotasubscript</key>
+  <string>pg.alphapsiliiotasubscript.glif</string>
+  <key>pg.alphapsilioxia</key>
+  <string>pg.alphapsilioxia.glif</string>
+  <key>pg.alphapsilioxiaiotasubscript</key>
+  <string>pg.alphapsilioxiaiotasubscript.glif</string>
+  <key>pg.alphapsiliperispomeni</key>
+  <string>pg.alphapsiliperispomeni.glif</string>
+  <key>pg.alphapsiliperispomeniiotasubscript</key>
+  <string>pg.alphapsiliperispomeniiotasubscript.glif</string>
+  <key>pg.alphapsilivaria</key>
+  <string>pg.alphapsilivaria.glif</string>
+  <key>pg.alphapsilivariaiotasubscript</key>
+  <string>pg.alphapsilivariaiotasubscript.glif</string>
+  <key>pg.alphavaria</key>
+  <string>pg.alphavaria.glif</string>
+  <key>pg.alphavariaiotasubscript</key>
+  <string>pg.alphavariaiotasubscript.glif</string>
+
   <key>pg.dasia</key>
   <string>pg.dasia.glif</string>
   <key>pg.dasiacomb</key>

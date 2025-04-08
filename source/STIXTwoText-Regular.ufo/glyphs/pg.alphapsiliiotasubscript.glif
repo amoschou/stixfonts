@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pg.alphapsiliiotasubscript" format="2">
+  <advance width="561"/>
+  <unicode hex="1F80"/>
+  <anchor x="257" y="-220" name="bottom.mkmk"/>
+  <anchor x="257" y="0" name="cedilla"/>
+  <anchor x="402" y="0" name="ogonek"/>
+  <anchor x="280" y="699" name="top.mkmk"/>
+  <outline>
+    <component base="pg.alphaiotasubscript"/>
+    <component base="pg.psilicomb" xOffset="510"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>
