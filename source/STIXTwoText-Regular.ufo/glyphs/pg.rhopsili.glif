@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pg.rhopsili" format="2">
+  <advance width="515"/>
+  <unicode hex="1FE4"/>
+  <anchor x="255" y="-220" name="bottom"/>
+  <anchor x="255" y="-220" name="cedilla"/>
+  <anchor x="255" y="-220" name="ogonek"/>
+  <anchor x="265" y="699" name="top.mkmk"/>
+  <outline>
+    <component base="rho"/>
+    <component base="pg.psilicomb" xOffset="513"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>
