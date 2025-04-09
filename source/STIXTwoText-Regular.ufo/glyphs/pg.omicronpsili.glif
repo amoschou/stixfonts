@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pg.omicronpsili" format="2">
+  <advance width="475"/>
+  <unicode hex="1F40"/>
+  <anchor x="230" y="0" name="bottom"/>
+  <anchor x="230" y="0" name="cedilla"/>
+  <anchor x="245" y="0" name="ogonek"/>
+  <anchor x="283" y="699" name="top.mkmk"/>
+  <outline>
+    <component base="omicron"/>
+    <component base="pg.psilicomb" xOffset="513"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>
