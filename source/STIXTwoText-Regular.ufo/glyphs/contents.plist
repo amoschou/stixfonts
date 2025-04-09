@@ -4524,14 +4524,177 @@
   <string>pg.dialytikavaria.glif</string>
   <key>pg.dialytikavariacomb</key>
   <string>pg.dialytikavariacomb.glif</string>
+
+  <key>pg.epsilondasia</key>
+  <string>pg.epsilondasia.glif</string>
+  <key>pg.epsilondasiaoxia</key>
+  <string>pg.epsilondasiaoxia.glif</string>
+  <key>pg.epsilondasiavaria</key>
+  <string>pg.epsilondasiavaria.glif</string>
+  <key>pg.epsilonoxia</key>
+  <string>pg.epsilonoxia.glif</string>
+  <key>pg.epsilonpsili</key>
+  <string>pg.epsilonpsili.glif</string>
+  <key>pg.epsilonpsilioxia</key>
+  <string>pg.epsilonpsilioxia.glif</string>
+  <key>pg.epsilonpsilivaria</key>
+  <string>pg.epsilonpsilivaria.glif</string>
+  <key>pg.epsilonvaria</key>
+  <string>pg.epsilonvaria.glif</string>
+
+  <key>pg.etadasia</key>
+  <string>pg.etadasia.glif</string>
+  <key>pg.etadasiaiotasubscript</key>
+  <string>pg.etadasiaiotasubscript.glif</string>
+  <key>pg.etadasiaoxia</key>
+  <string>pg.etadasiaoxia.glif</string>
+  <key>pg.etadasiaoxiaiotasubscript</key>
+  <string>pg.etadasiaoxiaiotasubscript.glif</string>
+  <key>pg.etadasiaperispomeni</key>
+  <string>pg.etadasiaperispomeni.glif</string>
+  <key>pg.etadasiaperispomeniiotasubscript</key>
+  <string>pg.etadasiaperispomeniiotasubscript.glif</string>
+  <key>pg.etadasiavaria</key>
+  <string>pg.etadasiavaria.glif</string>
+  <key>pg.etadasiavariaiotasubscript</key>
+  <string>pg.etadasiavariaiotasubscript.glif</string>
+  <key>pg.etaiotasubscript</key>
+  <string>pg.etaiotasubscript.glif</string>
+  <key>pg.etaoxia</key>
+  <string>pg.etaoxia.glif</string>
+  <key>pg.etaoxiaiotasubscript</key>
+  <string>pg.etaoxiaiotasubscript.glif</string>
+  <key>pg.etaperispomeni</key>
+  <string>pg.etaperispomeni.glif</string>
+  <key>pg.etaperispomeniiotasubscript</key>
+  <string>pg.etaperispomeniiotasubscript.glif</string>
+  <key>pg.etapsili</key>
+  <string>pg.etapsili.glif</string>
+  <key>pg.etapsiliiotasubscript</key>
+  <string>pg.etapsiliiotasubscript.glif</string>
+  <key>pg.etapsilioxia</key>
+  <string>pg.etapsilioxia.glif</string>
+  <key>pg.etapsilioxiaiotasubscript</key>
+  <string>pg.etapsilioxiaiotasubscript.glif</string>
+  <key>pg.etapsiliperispomeni</key>
+  <string>pg.etapsiliperispomeni.glif</string>
+  <key>pg.etapsiliperispomeniiotasubscript</key>
+  <string>pg.etapsiliperispomeniiotasubscript.glif</string>
+  <key>pg.etapsilivaria</key>
+  <string>pg.etapsilivaria.glif</string>
+  <key>pg.etapsilivariaiotasubscript</key>
+  <string>pg.etapsilivariaiotasubscript.glif</string>
+  <key>pg.etavaria</key>
+  <string>pg.etavaria.glif</string>
+  <key>pg.etavariaiotasubscript</key>
+  <string>pg.etavariaiotasubscript.glif</string>
+
+  <key>pg.iotabreve</key>
+  <string>pg.iotabreve.glif</string>
+  <key>pg.iotadasia</key>
+  <string>pg.iotadasia.glif</string>
+  <key>pg.iotadasiaoxia</key>
+  <string>pg.iotadasiaoxia.glif</string>
+  <key>pg.iotadasiaperispomeni</key>
+  <string>pg.iotadasiaperispomeni.glif</string>
+  <key>pg.iotadasiavaria</key>
+  <string>pg.iotadasiavaria.glif</string>
+  <key>pg.iotadialytikaoxia</key>
+  <string>pg.iotadialytikaoxia.glif</string>
+  <key>pg.iotadialytikaperispomeni</key>
+  <string>pg.iotadialytikaperispomeni.glif</string>
+  <key>pg.iotadialytikavaria</key>
+  <string>pg.iotadialytikavaria.glif</string>
+  <key>pg.iotamacron</key>
+  <string>pg.iotamacron.glif</string>
+  <key>pg.iotaoxia</key>
+  <string>pg.iotaoxia.glif</string>
+  <key>pg.iotapsili</key>
+  <string>pg.iotapsili.glif</string>
+  <key>pg.iotaperispomeni</key>
+  <string>pg.iotaperispomeni.glif</string>
+  <key>pg.iotapsilioxia</key>
+  <string>pg.iotapsilioxia.glif</string>
+  <key>pg.iotapsiliperispomeni</key>
+  <string>pg.iotapsiliperispomeni.glif</string>
+  <key>pg.iotapsilivaria</key>
+  <string>pg.iotapsilivaria.glif</string>
   <key>pg.iotasubscript</key>
   <string>pg.iotasubscript.glif</string>
   <key>pg.iotasubscriptcomb</key>
   <string>pg.iotasubscriptcomb.glif</string>
+  <key>pg.iotavaria</key>
+  <string>pg.iotavaria.glif</string>
+
   <key>pg.koronis</key>
   <string>pg.koronis.glif</string>
   <key>pg.koroniscomb</key>
   <string>pg.koroniscomb.glif</string>
+
+  <key>pg.omegadasia</key>
+  <string>pg.omegadasia.glif</string>
+  <key>pg.omegadasiaiotasubscript</key>
+  <string>pg.omegadasiaiotasubscript.glif</string>
+  <key>pg.omegadasiaoxia</key>
+  <string>pg.omegadasiaoxia.glif</string>
+  <key>pg.omegadasiaoxiaiotasubscript</key>
+  <string>pg.omegadasiaoxiaiotasubscript.glif</string>
+  <key>pg.omegadasiaperispomeni</key>
+  <string>pg.omegadasiaperispomeni.glif</string>
+  <key>pg.omegadasiaperispomeniiotasubscript</key>
+  <string>pg.omegadasiaperispomeniiotasubscript.glif</string>
+  <key>pg.omegadasiavaria</key>
+  <string>pg.omegadasiavaria.glif</string>
+  <key>pg.omegadasiavariaiotasubscript</key>
+  <string>pg.omegadasiavariaiotasubscript.glif</string>
+  <key>pg.omegaiotasubscript</key>
+  <string>pg.omegaiotasubscript.glif</string>
+  <key>pg.omegaoxia</key>
+  <string>pg.omegaoxia.glif</string>
+  <key>pg.omegaoxiaiotasubscript</key>
+  <string>pg.omegaoxiaiotasubscript.glif</string>
+  <key>pg.omegaperispomeni</key>
+  <string>pg.omegaperispomeni.glif</string>
+  <key>pg.omegaperispomeniiotasubscript</key>
+  <string>pg.omegaperispomeniiotasubscript.glif</string>
+  <key>pg.omegapsili</key>
+  <string>pg.omegapsili.glif</string>
+  <key>pg.omegapsiliiotasubscript</key>
+  <string>pg.omegapsiliiotasubscript.glif</string>
+  <key>pg.omegapsilioxia</key>
+  <string>pg.omegapsilioxia.glif</string>
+  <key>pg.omegapsilioxiaiotasubscript</key>
+  <string>pg.omegapsilioxiaiotasubscript.glif</string>
+  <key>pg.omegapsiliperispomeni</key>
+  <string>pg.omegapsiliperispomeni.glif</string>
+  <key>pg.omegapsiliperispomeniiotasubscript</key>
+  <string>pg.omegapsiliperispomeniiotasubscript.glif</string>
+  <key>pg.omegapsilivaria</key>
+  <string>pg.omegapsilivaria.glif</string>
+  <key>pg.omegapsilivariaiotasubscript</key>
+  <string>pg.omegapsilivariaiotasubscript.glif</string>
+  <key>pg.omegavaria</key>
+  <string>pg.omegavaria.glif</string>
+  <key>pg.omegavariaiotasubscript</key>
+  <string>pg.omegavariaiotasubscript.glif</string>
+
+  <key>pg.omicrondasia</key>
+  <string>pg.omicrondasia.glif</string>
+  <key>pg.omicrondasiaoxia</key>
+  <string>pg.omicrondasiaoxia.glif</string>
+  <key>pg.omicrondasiavaria</key>
+  <string>pg.omicrondasiavaria.glif</string>
+  <key>pg.omicronoxia</key>
+  <string>pg.omicronoxia.glif</string>
+  <key>pg.omicronpsili</key>
+  <string>pg.omicronpsili.glif</string>
+  <key>pg.omicronpsilioxia</key>
+  <string>pg.omicronpsilioxia.glif</string>
+  <key>pg.omicronpsilivaria</key>
+  <string>pg.omicronpsilivaria.glif</string>
+  <key>pg.omicronvaria</key>
+  <string>pg.omicronvaria.glif</string>
+
   <key>pg.oxia</key>
   <string>pg.oxia.glif</string>
   <key>pg.oxiacomb</key>
@@ -4558,6 +4721,45 @@
   <string>pg.psilivariacomb.glif</string>
   <key>pg.quoteright.Greek</key>
   <string>pg.quoteright.Greek.glif</string>
+
+  <key>pg.rhodasia</key>
+  <string>pg.rhodasia.glif</string>
+  <key>pg.rhopsili</key>
+  <string>pg.rhopsili.glif</string>
+
+  <key>pg.upsilonbreve</key>
+  <string>pg.upsilonbreve.glif</string>
+  <key>pg.upsilondasia</key>
+  <string>pg.upsilondasia.glif</string>
+  <key>pg.upsilondasiaoxia</key>
+  <string>pg.upsilondasiaoxia.glif</string>
+  <key>pg.upsilondasiaperispomeni</key>
+  <string>pg.upsilondasiaperispomeni.glif</string>
+  <key>pg.upsilondasiavaria</key>
+  <string>pg.upsilondasiavaria.glif</string>
+  <key>pg.upsilondialytikaoxia</key>
+  <string>pg.upsilondialytikaoxia.glif</string>
+  <key>pg.upsilondialytikaperispomeni</key>
+  <string>pg.upsilondialytikaperispomeni.glif</string>
+  <key>pg.upsilondialytikavaria</key>
+  <string>pg.upsilondialytikavaria.glif</string>
+  <key>pg.upsilonmacron</key>
+  <string>pg.upsilonmacron.glif</string>
+  <key>pg.upsilonoxia</key>
+  <string>pg.upsilonoxia.glif</string>
+  <key>pg.upsilonpsili</key>
+  <string>pg.upsilonpsili.glif</string>
+  <key>pg.upsilonperispomeni</key>
+  <string>pg.upsilonperispomeni.glif</string>
+  <key>pg.upsilonpsilioxia</key>
+  <string>pg.upsilonpsilioxia.glif</string>
+  <key>pg.upsilonpsiliperispomeni</key>
+  <string>pg.upsilonpsiliperispomeni.glif</string>
+  <key>pg.upsilonpsilivaria</key>
+  <string>pg.upsilonpsilivaria.glif</string>
+  <key>pg.upsilonvaria</key>
+  <string>pg.upsilonvaria.glif</string>
+
   <key>pg.varia</key>
   <string>pg.varia.glif</string>
   <key>pg.variacomb</key>
