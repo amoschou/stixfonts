@@ -5,10 +5,10 @@
   <anchor x="257" y="-220" name="bottom.mkmk"/>
   <anchor x="257" y="0" name="cedilla"/>
   <anchor x="402" y="0" name="ogonek"/>
-  <anchor x="280" y="652" name="top.mkmk"/>
+  <anchor x="271" y="652" name="top.mkmk"/>
   <outline>
     <component base="pg.alphaiotasubscript"/>
-    <component base="pg.perispomenicomb" xOffset="510"/>
+    <component base="pg.perispomenicomb" xOffset="501"/>
   </outline>
   <lib>
   <dict>

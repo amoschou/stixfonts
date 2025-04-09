@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="pg.alphabreve" format="2">
+<glyph name="pg.alphaiotasubscript" format="2">
   <advance width="561"/>
   <unicode hex="1FB3"/>
   <anchor x="257" y="-220" name="bottom.mkmk"/>
