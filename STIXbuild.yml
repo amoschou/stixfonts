@@ -69,7 +69,7 @@ fonts:
           1: STIX Two Text Medium
           2: Regular
           4: STIX Two Text Medium
-          6: BrillMedium-Regular
+          6: STIXTwoTextMedium-Regular
           16: STIX Two Text
           17: Medium
       STIXTwoText-Semibold:
@@ -79,7 +79,7 @@ fonts:
           1: STIX Two Text SemiBold
           2: Regular
           4: STIX Two Text SemiBold
-          6: BrillSemiBold-Regular
+          6: STIXTwoTextSemiBold-Regular
           16: STIX Two Text
           17: SemiBold
       STIXTwoText-Bold:
@@ -157,7 +157,7 @@ fonts:
           1: STIX Two Text Medium
           2: Italic
           4: STIX Two Text Medium Italic
-          6: BrillMedium-Italic
+          6: STIXTwoTextMedium-Italic
           16: STIX Two Text
           17: Medium Italic
       STIXTwoText-SemiboldItalic:
@@ -167,7 +167,7 @@ fonts:
           1: STIX Two Text SemiBold
           2: Italic
           4: STIX Two Text SemiBold Italic
-          6: BrillSemiBold-Italic
+          6: STIXTwoTextSemiBold-Italic
           16: STIX Two Text
           17: SemiBold Italic
       STIXTwoText-BoldItalic:
