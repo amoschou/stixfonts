@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="perispomenicomb" format="2">
+  <unicode hex="0342"/>
+  <anchor x="-230" y="485" name="_top.mkmk"/>
+  <anchor x="-230" y="473" name="_top"/>
+  <anchor x="-230" y="652" name="top.mkmk"/>
+  <outline>
+    <contour>
+      <point x="-98" y="516" type="line"/>
+      <point x="-133" y="576"/>
+      <point x="-180" y="582"/>
+      <point x="-230" y="582" type="curve" smooth="yes"/>
+      <point x="-280" y="582"/>
+      <point x="-327" y="576"/>
+      <point x="-362" y="516" type="curve"/>
+      <point x="-378" y="526" type="line"/>
+      <point x="-353" y="616"/>
+      <point x="-310" y="652"/>
+      <point x="-230" y="652" type="curve" smooth="yes"/>
+      <point x="-150" y="652"/>
+      <point x="-107" y="616"/>
+      <point x="-82" y="526" type="curve"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="-230" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

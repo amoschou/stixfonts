@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="%GLYPH-NAME%" format="2">
+%ADVANCE%%UNICODE%%ANCHORS%  <outline>
+%COMPONENTS%
+  </outline>
+%GUIDELINES%%LIB%</glyph>

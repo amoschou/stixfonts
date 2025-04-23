@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>dialytikavariacomb</key>
+  <string>dialytikavariacomb.glif</string>
+  <key>iotasubscriptcomb</key>
+  <string>iotasubscriptcomb.glif</string>
+  <key>perispomenicomb</key>
+  <string>perispomenicomb.glif</string>
+  <key>psilicomb</key>
+  <string>psilicomb.glif</string>
+</dict>
+</plist>

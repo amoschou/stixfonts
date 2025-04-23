@@ -1,0 +1,9 @@
+28a29,32
+> lookup g.locl.dflt {
+>     sub quoteright by quoteright.Greek;
+> } g.locl.dflt;
+> 
+1438a1443,1445
+>     script grek;
+>     language dflt;
+>     lookup g.locl.dflt;

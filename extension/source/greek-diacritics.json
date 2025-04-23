@@ -1,0 +1,87 @@
+{
+    "group-a": {
+        "oxiacomb": {
+            "derivedfrom": "tonoscomb",
+            "hflip": false
+        },
+        "dialytikaoxiacomb": {
+            "derivedfrom": "dialytikatonoscomb",
+            "hflip": false
+        },
+        "koroniscomb": {
+            "unicode": "0343",
+            "derivedfrom": "psilicomb",
+            "hflip": false
+        },
+        "variacomb": {
+            "derivedfrom": "oxiacomb",
+            "hflip": true
+        },
+        "dasiacomb": {
+            "derivedfrom": "psilicomb",
+            "hflip": true
+        }
+    },
+    "group-b": {
+        "psiliperispomenicomb": {
+            "vstack": ["psilicomb", "perispomenicomb"]
+        },
+        "dasiaperispomenicomb": {
+            "vstack": ["dasiacomb", "perispomenicomb"]
+        },
+        "dialytikaperispomenicomb": {
+            "vstack": ["dialytikacomb", "perispomenicomb"]
+        },
+        "psiliperispomenicomb.cap": {
+            "vstack": ["psilicomb", "perispomenicomb"]
+        },
+        "dasiaperispomenicomb.cap": {
+            "vstack": ["dasiacomb", "perispomenicomb"]
+        }
+    },
+    "group-c": {
+        "psilivariacomb": {
+            "hstack": ["psilicomb", "variacomb"],
+            "deltax": {"regular": 100, "bold": 110}
+        },
+        "psilioxiacomb": {
+            "hstack": ["psilicomb", "oxiacomb"],
+            "deltax": {"regular": 90, "bold": 100}
+        },
+        "dasiavariacomb": {
+            "hstack": ["dasiacomb", "variacomb"],
+            "deltax": {"regular": 90, "bold": 100}
+        },
+        "dasiaoxiacomb": {
+            "hstack": ["dasiacomb", "oxiacomb"],
+            "deltax": {"regular": 80, "bold": 90}
+        }
+    },
+    "fromcomb": {
+        "iotasubscript": ["037A", "iotasubscriptcomb"],
+        "koronis": ["1FBD", "koroniscomb"],
+        "psili": ["1FBF", "psilicomb"],
+        "perispomeni": ["1FC0", "perispomenicomb"],
+        "dialytikaperispomeni": ["1FC1", "dialytikaperispomenicomb"],
+        "psilivaria": ["1FCD", "psilivariacomb"],
+        "psilioxia": ["1FCE", "psilioxiacomb"],
+        "psiliperispomeni": ["1FCF", "psiliperispomenicomb"],
+        "dasiavaria": ["1FDD", "dasiavariacomb"],
+        "dasiaoxia": ["1FDE", "dasiaoxiacomb"],
+        "dasiaperispomeni": ["1FDF", "dasiaperispomenicomb"],
+        "dialytikavaria": ["1FED", "dialytikavariacomb"],
+        "dialytikaoxia": ["1FEE", "dialytikaoxiacomb"],
+        "varia": ["1FEF", "variacomb"],
+        "oxia": ["1FFD", "oxiacomb"],
+        "dasia": ["1FFE", "dasiacomb"],
+        "quoteright.Greek": [null, "psilicomb"],
+        "psiliperispomeni.cap": [null, "psiliperispomenicomb.cap", "psilicomb"],
+        "dasiaperispomeni.cap": [null, "dasiaperispomenicomb.cap", "dasiacomb"]
+    },
+    "greekvar": {
+        "comment": "Right now, this section is not used. Remove quoteright.Greek from the above when it is implemented.",
+        "quoteright.Greek": ["quoteright", "psili"],
+        "apostrophemodifier.Greek": ["apostrophemodifier", "psili"],
+        "apostrophereversedmodifier.Greek": ["apostrophereversedmodifier", "dasia"]
+    }
+}
