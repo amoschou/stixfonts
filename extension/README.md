@@ -6,7 +6,7 @@ Get the built fonts from [https://github.com/amoschou/polytonic-extension](https
 
 ## Process
 
-The extension has been carefully constructed so that the new fonts can be automatically generated from the original source. When STIX Two is updated [(version 2.25 is coming soon)](https://github.com/stipub/stixfonts/milestones), this modified version can follow quite quickly.
+The extension has been carefully constructed so that the new fonts can be automatically generated from the original source. When STIX Two is updated ([version 2.25 is coming soon](https://github.com/stipub/stixfonts/milestones)), this modified version can follow quite quickly.
 
 If the build process is cleaned up and abstracted, it could be adapted to generally extend any monotonic Greek font to support polytonic fairly easily.
 
