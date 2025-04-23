@@ -37,7 +37,7 @@ bash ./bin/tiro-build.sh
 The `tiro-build.sh` script will:
 * alter `STIXbuild.yml` and the `.designspace` files with new font information (naming); mathematics build information is removed
 * merge the newly built `.ufo` and `.ren` files into the source
-* run `tirobyild.py`
+* run `tirobuild.py`
 * roll back the source to the original state
 
 I recommend still keeping the Italic build, even though there is no functional difference to the official build, so that the *Italic* button in word processers will continue to work if you are typing in Latin, Cyrillic or monotonic Greek.
