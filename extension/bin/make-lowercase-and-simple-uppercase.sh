@@ -223,4 +223,3 @@ do
     echo uni${unicodehex} $glyphname >> ${targetufo}/../STIX2-Post2Dev.pg.unsorted.ren
     echo $glyphname uni${unicodehex} >> ${targetufo}/../STIX2-Dev2Post.pg.unsorted.ren
 done
-\
