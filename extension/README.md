@@ -6,7 +6,7 @@ This `git` repository is a fork from `stix/stipub` (`v2.14`), with the addition 
 
 The extension has been carefully constructed so that the new fonts can be automatically generated from the original source. When STIX Two is updated [(version 2.25 is coming soon)](https://github.com/stipub/stixfonts/milestones), this modified version can follow quite quickly.
 
-If the build process is cleaned up, it could be adapted to generally extend any monotonic Greek font to polytonic support easily.
+If the build process is cleaned up and abstracted, it could be adapted to generally extend any monotonic Greek font to support polytonic fairly easily.
 
 # Build instructions
 
