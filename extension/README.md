@@ -4,13 +4,13 @@ This `git` repository is a fork from `stix/stipub` (`v2.14`), with the addition 
 
 Get the built fonts from [https://github.com/amoschou/polytonic-extension](https://github.com/amoschou/polytonic-extension).
 
-# Process
+## Process
 
 The extension has been carefully constructed so that the new fonts can be automatically generated from the original source. When STIX Two is updated [(version 2.25 is coming soon)](https://github.com/stipub/stixfonts/milestones), this modified version can follow quite quickly.
 
 If the build process is cleaned up and abstracted, it could be adapted to generally extend any monotonic Greek font to support polytonic fairly easily.
 
-# Build instructions
+## Build instructions
 
 From the repository root, run the following:
 ```bash
@@ -41,3 +41,13 @@ The `tiro-build.sh` script will:
 * roll back the source to the original state
 
 I recommend still keeping the Italic build, even though there is no functional difference to the official build, so that the *Italic* button in word processers will continue to work if you are typing in Latin, Cyrillic or monotonic Greek.
+
+## Copyright and license
+
+```
+Copyright 2001-2021 The STIX Fonts Project Authors (https://github.com/stipub/stixfonts), with Reserved Font Name "TM Math". STIX Fonts™ is a trademark of The Institute of Electrical and Electronics Engineers, Inc.
+
+Additions for polytonic Greek © Andrew Moschou 2025.
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+```
