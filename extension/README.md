@@ -27,7 +27,7 @@ The `run.sh` script will:
 
 This script will create the folder `extension/target` (deleting it if it already exists first) and create all new files here.
 
-There are already existing `.input.ttf` files which have been shipped from VOLT with the polytonic Greek additions in the `extension/volt` folder. These will be used by the build script next. However, if there are further changes to the extension, do not forget to recreate the `.input.ttf` files.
+There are already existing `.input.ttf` files which have been shipped from VOLT with the polytonic Greek additions in the `extension/volt` folder. These will be used by the build script next. However, if there are further changes to the extension which the existing `.input.ttf` files do not reflect, you must recreate the `.input.ttf` files shipped fresh from VOLT.
 
 Next, run:
 ```bash
