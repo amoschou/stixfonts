@@ -1,6 +1,6 @@
 # Polytonic extension
 
-This `git` repository is a fork from `stix/stipub` (`v2.14`), with the addition of the folder `extension` containing everything that is necessary to extend STIX Two Text to support Polytonic Greek.
+This `git` repository is a fork from `stipub/stix` (`v2.14`), with the addition of the folder `extension` containing everything that is necessary to extend STIX Two Text to support Polytonic Greek.
 
 Get the built fonts from [https://github.com/amoschou/polytonic-extension](https://github.com/amoschou/polytonic-extension).
 
